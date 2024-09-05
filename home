@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Graded Exercise</title>
+</head>
+	<body>
+	
+		<h1>My Favorite Sports</h1>
+		<hr>
+		
+		<a href="files/page 2.html">
+			<img src="images/gloves.jpg" alt="Boxing" height="100" width="100"/>
+		</a>
+	
+		<a href="files/page 3.html">
+			<img src="images/taekwondo.jpg" alt="Taekwondo" height="100" width="100"/>
+		</a>
+	
+		<a href="files/page 4.html">
+			<img src="images/badminton.jpg" alt="Badminton" height="100" width="100"/>
+		</a>
+	
+		<p>Click on the icons to know more about each sport!</p>
+	
+		<a href="files/My Time Table.html" alt="timetable">
+			My Time Table
+		</a>
+	
+		<p>Click on the link above to view my Weekly Time Table!</p>
+
+	</body>
+</html>
+
